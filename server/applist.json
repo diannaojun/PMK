@@ -1,0 +1,33 @@
+{
+	"name":"central package hub of PMK",
+	"list":[
+		{
+			"id":"org.symboldt.pmk",
+			"name":"pmk",
+			"source":"../bin/pmk",
+			"version":1,
+			"dependence":[]
+		},
+		{
+			"id":"org.symboldt.pmk.1",
+			"name":"pmk",
+			"source":"../bin/pmk",
+			"version":1,
+			"dependence":[]
+		},
+		{
+			"id":"org.example.helloworld",
+			"name":"helloworld",
+			"source":"./bin/org.example.helloworld",
+			"version":2,
+			"dependence":[]
+		},
+		{
+			"id":"org.example.helloworld.2",
+			"name":"helloworld",
+			"source":"./bin/org.example.helloworld",
+			"version":2,
+			"dependence":[]
+		}
+	]
+}
